@@ -1,0 +1,6 @@
+.godot/
+.export_templates/
+build/
+.DS_Store
+.env
+.env.*

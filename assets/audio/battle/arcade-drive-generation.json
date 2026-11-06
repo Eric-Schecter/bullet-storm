@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-06T14:37:07.427Z",
+  "request": {
+    "model_id": "eleven_text_to_sound_v2",
+    "duration_seconds": 30,
+    "loop": true,
+    "prompt_influence": 0.6,
+    "text": "Seamless 8-bit arcade shooter battle music, 144 BPM. Punchy four-on-the-floor drums, syncopated warm triangle bass riff, memorable minor-key lead melody with call-and-response phrases. Tight energetic retro game composition, determined and tense, catchy rhythmic hooks and harmonic movement. Rounded pulse tones, restrained treble, sparse arrangement. Immediate action. No random beeps, shrill arpeggios, ambient drones, vocals or sound effects."
+  },
+  "status": "complete",
+  "httpStatus": 200,
+  "bytes": 481114
+}
